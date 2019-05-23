@@ -20,4 +20,4 @@
      alt="In Game"
      style="float: left; margin-right: 10px;" />
 
-### [READ THE LICENSE]()
+### [READ THE LICENSE](https://github.com/MrrRaph/Memory/blob/master/LICENSE.md)
