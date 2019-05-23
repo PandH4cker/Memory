@@ -15,3 +15,9 @@
      alt="Main Menu" 
      style="float: left; margin-right: 10px;" />
 
+### In-game:
+<img src="./InGame.png"
+     alt="In Game"
+     style="float: left; margin-right: 10px;" />
+
+### [READ THE LICENSE]()
