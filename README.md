@@ -11,3 +11,7 @@
 
 ---
 ### Main menu:
+<img src="./MainMenu.png" 
+     alt="Main Menu" 
+     style="float: left; margin-right: 10px;" />
+
